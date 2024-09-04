@@ -2,6 +2,6 @@
 """add types to a function"""
 
 
-def add(number1 : float, number2: float) -> float:
+def add(number1: float, number2: float) -> float:
     """add two numbers"""
     return number1 + number2
