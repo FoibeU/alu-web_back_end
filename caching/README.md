@@ -1,1 +1,0 @@
-This project is designed to teach about caching, it is focusing on caching policies  
