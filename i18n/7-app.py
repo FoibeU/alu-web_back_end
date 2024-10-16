@@ -70,4 +70,3 @@ def get_timezone():
 
 if __name__ == '__main__':
     app.run()
-    
