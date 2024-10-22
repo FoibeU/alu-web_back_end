@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ log stats """
-from pymongo import MongoClient
+from pymongo import (MongoClient)
 
 def main(collection, options=None):
     """ log stats"""
