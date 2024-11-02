@@ -5,3 +5,4 @@ export default function getSumOfHoods(
 ) {
   return initialNumber + expansion1989 + expansion2019;
 }
+
